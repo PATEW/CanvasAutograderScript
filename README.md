@@ -1,4 +1,4 @@
-# Grading Headache Reducer
+# Canvas Autograder Script
 
 Finished Python script that automates keeping track of student homework grades, allows us to easily export grades and comments into Canvas and/or excel. 
 
